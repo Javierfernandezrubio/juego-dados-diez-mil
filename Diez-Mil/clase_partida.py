@@ -26,9 +26,7 @@ class Partida:
 
         # Turno Partida
         self.jugar_turno()
-
-        # Imprimir puntuación
-        self.__salida_pantalla(marcador)
+        
     def jugar_ronda(self):
         pass
 
